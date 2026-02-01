@@ -1,0 +1,4 @@
+project_id = "fqjtnhhyfcodlmcrxcjo"
+
+[functions.pathway-decision]
+verify_jwt = false
