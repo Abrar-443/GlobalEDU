@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "react-router-dom": "^7.13.0"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.58.1",
+    "@types/phoenix": "^1.6.7"
   }
 }
